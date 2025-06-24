@@ -1,0 +1,144 @@
+/* General layout */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+  }
+  
+  /* App container */
+  .app {
+    max-width: 700px;
+    margin: 2rem auto;
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Input Section */
+  .input-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .input-container input {
+    flex: 1 1 45%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-container button {
+    flex: 1 1 100%;
+    padding: 0.75rem;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Control buttons */
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .controls button {
+    flex: 1 1 32%;
+    padding: 0.5rem;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Table styles */
+  .todo-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  .todo-table th,
+  .todo-table td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+  }
+  
+  .todo-table th {
+    background-color: #f9f9f9;
+  }
+  
+  .todo-table input {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+  
+  .todo-table button {
+    padding: 0.3rem 0.6rem;
+    margin-right: 5px;
+    border: none;
+    background: #17a2b8;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .todo-table .delete-btn {
+    background: #dc3545;
+  }
+  
+  /* Info & Error messages */
+  .info {
+    color: #555;
+    margin-top: 0.5rem;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 0.5rem;
+  }
+  .totals-row td {
+    background: #f0f0f0;
+  }
+  
+  /* Responsive layout */
+  @media (max-width: 600px) {
+    .input-container input,
+    .controls button {
+      flex: 1 1 100%;
+    }
+  }
+  
+  /* Print styles */
+  @media print {
+    body * {
+      visibility: hidden !important;
+    }
+  
+    .print-area,
+    .print-area * {
+      visibility: visible !important;
+    }
+  
+    .print-area {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+  
+    .no-print {
+      display: none !important;
+    }
+  }

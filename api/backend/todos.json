@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1750241623130,
+    "text": "Wake",
+    "completed": false,
+    "amount": "200"
+  },
+  {
+    "id": 1750241667869,
+    "text": "Bread",
+    "completed": false,
+    "amount": "5000"
+  },
+  {
+    "id": 1750246074808,
+    "text": "Grocery",
+    "completed": false,
+    "amount": "5000"
+  },
+  {
+    "id": 1750246124311,
+    "text": "Kulikuli",
+    "completed": false
+  },
+  {
+    "id": 1750247347954,
+    "text": "Book",
+    "amount": "300",
+    "currency": "NGN",
+    "completed": false
+  },
+  {
+    "id": 1750248434793,
+    "text": "Book",
+    "amount": "200",
+    "currency": "EUR",
+    "completed": false
+  },
+  {
+    "id": 1750248478008,
+    "text": "Garri",
+    "amount": "200",
+    "currency": "NGN",
+    "completed": false
+  },
+  {
+    "id": 1750248561976,
+    "text": "Biscuit",
+    "amount": "470",
+    "currency": "NGN",
+    "completed": false
+  },
+  {
+    "id": 1750248599329,
+    "text": "Maggi",
+    "amount": "850",
+    "currency": "USD",
+    "completed": false
+  },
+  {
+    "id": 1750253928498,
+    "text": "Augar",
+    "amount": "450",
+    "currency": "GBP",
+    "completed": false
+  },
+  {
+    "id": 1750254948991,
+    "text": "garri",
+    "budgeted": "2500",
+    "spent": "3000",
+    "currency": "USD",
+    "completed": false
+  },
+  {
+    "id": 1750255007110,
+    "text": "Biscuit",
+    "budgeted": "1400",
+    "spent": "1800",
+    "currency": "NGN",
+    "completed": false
+  },
+  {
+    "id": 1750255050742,
+    "text": "Maggi",
+    "budgeted": "1500",
+    "spent": "1000",
+    "currency": "USD",
+    "completed": false
+  },
+  {
+    "id": 1750258437007,
+    "text": "Naggi",
+    "budgeted": "4500",
+    "spent": "4000",
+    "currency": "NGN",
+    "convertedBudgetedNGN": 4500,
+    "convertedSpentNGN": 4000,
+    "completed": false
+  },
+  {
+    "id": 1750258985167,
+    "text": "poundo",
+    "budgeted": "2500",
+    "spent": "3000",
+    "currency": "USD",
+    "convertedBudgetedNGN": 3987500,
+    "convertedSpentNGN": 4785000,
+    "completed": false
+  },
+  {
+    "id": 1750259010602,
+    "text": "Rice",
+    "budgeted": "7000",
+    "spent": "8000",
+    "currency": "EUR",
+    "convertedBudgetedNGN": 12600000,
+    "convertedSpentNGN": 14400000,
+    "completed": false
+  },
+  {
+    "id": 1750259753756,
+    "text": "Maggi",
+    "budgeted": "1250",
+    "spent": "1500",
+    "currency": "NGN",
+    "convertedBudgetedNGN": 1250,
+    "convertedSpentNGN": 1500,
+    "completed": false
+  },
+  {
+    "id": 1750259841290,
+    "text": "Garri",
+    "budgeted": "5",
+    "spent": "4",
+    "currency": "USD",
+    "convertedBudgetedNGN": 7975,
+    "convertedSpentNGN": 6380,
+    "completed": false
+  },
+  {
+    "id": 1750260520316,
+    "text": "Qulikuli",
+    "budgeted": "5050",
+    "spent": "5100",
+    "currency": "NGN",
+    "convertedBudgetedNGN": 5050,
+    "convertedSpentNGN": 5100,
+    "completed": false
+  },
+  {
+    "id": 1750260601709,
+    "text": "Maggi",
+    "budgeted": "2",
+    "spent": "1.5",
+    "currency": "USD",
+    "convertedBudgetedNGN": 3190,
+    "convertedSpentNGN": 2392.5,
+    "completed": false
+  },
+  {
+    "id": 1750261419860,
+    "text": "Maggi",
+    "budgeted": "4560",
+    "spent": "5000",
+    "currency": "NGN",
+    "time": "2025-06-18T15:43:39.860Z",
+    "convertedBudgetedNGN": 4560,
+    "convertedSpentNGN": 5000,
+    "completed": false
+  },
+  {
+    "id": 1750261486980,
+    "text": "fish",
+    "budgeted": "50",
+    "spent": "40",
+    "currency": "NGN",
+    "time": "2025-06-18T15:44:46.979Z",
+    "convertedBudgetedNGN": 50,
+    "convertedSpentNGN": 40,
+    "completed": false
+  },
+  {
+    "id": 1750261518031,
+    "text": "Rice",
+    "budgeted": "70",
+    "spent": "65",
+    "currency": "USD",
+    "time": "2025-06-18T15:45:18.031Z",
+    "convertedBudgetedNGN": 111650,
+    "convertedSpentNGN": 103675,
+    "completed": false
+  }
+]
